@@ -1,0 +1,12 @@
+/* Typography Styles */
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    color: #222;
+}
+
+p {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    color: #444;
+}

@@ -1,0 +1,44 @@
+Základní popis hotelu:
+Hotel Nord nabízí kombinaci moderního designu a rodinné atmosféry přímo v srdci Liberce. Ať už zákazník přijíždí za dobrodružstvím na Ještědu nebo za klidem, Hotel Nord je jeho domovem na cestách.
+Hotel Nord vznikl z vášně pro severní krajinu a špičkovou gastronomii. Od roku 2024 nabízí ubytování, které v sobě kloubí skandinávskou čistotu a lokální materiály. Cílem je, aby každý host odjížděl s pocitem, že našel své místo pro odpočinek.
+Ubytovací řád hotelu:
+Ubytovací řád Hotelu Nord
+1.	Check-in a Check-out: Pokoj je vám k dispozici od 14:00 v den příjezdu. V den odjezdu prosíme o uvolnění pokoje do 11:00.
+2.	Noční klid: Aby si všichni hosté odpočinuli, prosíme o dodržování klidu na chodbách a v pokojích v čase od 22:00 do 06:00.
+3.	Kouření: Celý interiér hotelu včetně pokojů a balkónů je striktně nekuřácký. Porušení je spojeno s poplatkem 2 500 Kč za hloubkové čištění.
+4.	Snídaně: Podávají se v přízemí hotelu každý den od 7:00 do 10:00 formou bufetu.
+5.	Domácí mazlíčci: Jsou u nás vítáni, ale pouze po předchozí domluvě a za poplatek dle platného ceníku.
+6.	Odpovědnost za škody: Host odpovídá za škody způsobené na vybavení hotelu. Prosíme, nahlašte jakoukoli nehodu ihned na recepci (nebo našemu chatbotovi).
+7.	Návštěvy: Přijímání neregistrovaných návštěv na pokojích je z bezpečnostních důvodů povoleno pouze do 20:00.
+8.	Bezpečnost: Při odchodu z pokoje prosíme o uzavření oken a vypnutí elektrických spotřebičů. Cennosti si můžete uložit v trezoru na pokoji.
+9.	Wellness: Vstup do sauny a vířivky je povolen pouze v provozní době a po osprchování. Děti mají vstup povolen pouze v doprovodu dospělé osoby.
+10.	Ekologie: Podporujeme šetrný přístup k přírodě. Ručníky na zemi vyměníme, ručníky na věšáku budeme považovat za ty, které chcete dál používat.
+Nabízené pokoje a ceník:
+Standard Double – Pokoj pro páry. Cena pokoje je 1800 Kč za noc.
+Superior Room – Pokoj má o něco více prostoru než Standard Double a výhled na Ještěd. Cena pokoje je 2400 Kč za noc.
+Family Suite – Jednotka nabízí 2 oddělené pokoje pro celkem 4 lidi. Cena je 3500 Kč za noc.
+Nordic Executive – Nejluxusnější pokoj pro dvě osoby s nejlepším prostředím, výhledem a vlastní saunou. Cena je 5200 Kč za noc.
+Dále jsou nabízené doplňkově služby:
+•	Večeře (Polopenze): 450 Kč / osoba
+•	Hlídané parkování: 200 Kč / noc
+•	Domácí mazlíček: 300 Kč / noc
+•	Wellness: 250 Kč / hod
+
+Kontakt:
+Husova, 460 01 Liberec
++420 123 456 789
+info@hotelnord.cz
+
+Jak vytvořit rezervaci:
+Nejdříve je nutné se přihlásit kliknutím tlačítka „Přihlášení“ vpravo. Pokud se uživatel ještě nikdy neregistroval, tak je nejdříve nutné provést registraci. Až poté je možné se přihlásit pod svým registrovaným uživatelským účtem.
+Pro registraci a přihlášení je nutné vyplnit uživatelské jméno a uživatelské heslo.
+Poté je možné otevřít stránku tlačítkem „Rezervace“ nacházející se vlevo od tlačítko „Přihlášení“. Na této stránce je možné provést rezervaci.
+Pro provedení rezervace je nutné vyplnit
+•	Typ pokoje
+•	Datum příjezdu
+•	Datum odjezdu
+•	Počet osob
+•	Příplatkové služby
+A následovně kliknout na tlačítko „Odeslat rezervaci“.
+Uživatel může následně vidět své provedené rezervace v tabulce nacházející se pod formulářem k vyplnění rezervace.
+
