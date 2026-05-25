@@ -127,7 +127,7 @@ body {
     border-radius: 10px;
     margin-bottom: 10px;
     flex-shrink: 0;
-    background-color: #d3d3d3; /* Světle šedé pozadí, dokud nepřidáš vlastní fotku */
+    background-color: #d3d3d3;
 }
 
 .addons-block {
